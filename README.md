@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShogunWarlord
+- 👋 Hi, I am Diego
 - 👀 I’m interested in ...learning new skills
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...The Bitcoin Core
-- 📫 How to reach me ...shogunwarlord@protonmail.com
+- 📫 How to reach me ...maximotodev@proton.me
 
 <!---
 ShogunWarlord/ShogunWarlord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
